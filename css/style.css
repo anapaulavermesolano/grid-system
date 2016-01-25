@@ -1,0 +1,145 @@
+* {
+	font-family: Arial;
+}
+header {
+	padding: 15px 0;
+	margin: 0;
+	color: #fff;
+	border-bottom: solid #333 1px;
+	background: #333;
+}
+.logo  {
+	width: 80px;
+	height: 80px;
+}
+nav ul {
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	float: right;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+nav li {
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+nav li:hover a {
+	background: #585858;
+}
+nav a {
+	text-decoration: none;
+	padding: 10px 15px;
+	color: #eee;
+	text-shadow: 2px 2px 4px #000;
+}
+nav a:hover {
+	color:#fff;
+}
+.gray {
+	background-color: #EEEEEE;
+    padding: 15px;
+}
+.blues {
+	color: blue;
+}
+.text1{
+	font-size: 25px;
+}
+ul {
+	padding: 10px;
+}
+li {
+	display: inline-block;
+}
+p {   
+    text-align: center;
+    color: blue;
+    margin: -10px 0px 2px 0px;
+}
+.jpg {
+	width: 200px;
+	height: 200px;
+	margin: 12px;
+	display: inline-block;
+	border : 5px solid white;
+	float: right;
+}
+ .white {
+ 	margin-top: 20px;
+ }
+.thumbs {
+	width: 100px;
+    height: 100px;
+    border: 5px solid teal;
+    margin: 10px 0px;
+}
+.parrafo2 {
+	font-size: 12px;
+}
+.parrafo3 {
+	padding: 10px;
+    text-align: left;
+    font-size: 17px;
+    margin:0px 0px -10px 0px;
+}
+
+.line {
+    width: 215px;
+    border: 1px solid #EDEDED;
+    margin-bottom: 10px;
+}
+.icons {
+    width: 13px;
+    height: 13px;
+    float: left;
+    margin: 11px 10px 0px 0px;
+}
+.espacio {
+    margin: 30px;
+}
+span {
+    color: black;
+    font-size: 17px;
+}
+.text3 {
+    text-align: left;
+    color: blue;
+    font-size: 17px;
+}
+.text {
+	font-size: 20px;
+}
+.plomo {
+	background-color: #585858;
+	padding: 10px;
+	margin: auto;
+}
+.text5 {
+	font-size: 15px;
+	color: white;
+	text-align: left;
+	margin: auto;
+}
+a{
+	color: #B1B5AF; 
+}
+.text4 {
+	font-size: 14px;
+	color: #7E7F77;
+	text-align: center;
+	margin: 12px;
+}
+.last {
+	color: #B6B89F;
+	display: inline-block;
+	margin: 20px 10px 0px 0px;
+	font-size: 17px;
+}
+.medio {
+	text-align: center;
+}
